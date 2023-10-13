@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43a01d9d07e4b4830a6e0c71879903e8, type: 3}
+  m_Name: BowmanConfig
+  m_EditorClassIdentifier: 
+  health: 100
+  damageMelee: 5
+  damageRange: 20
+  armor: 5
+  goRange: 4
+  missAbil: 5
+  critChance: 5
+  critModif: 150
+  vamp: 10
+  melee: 0
+  cost: 2
+  numberUnits: 2
+  skills: []
+  race: 0
+  model: {fileID: 1943824165509775549, guid: eab9a713d628c9346be2c65291ba1bf0, type: 3}

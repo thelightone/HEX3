@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbc21295efcf52248bf10776d4a4bd86, type: 3}
+  m_Name: Skill
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 0}
+  skillName: 
+  description: 
+  duration: 0
+  invoker: {fileID: 0}
+  unitAims: []
+  hexAims:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  effectsController: {fileID: 0}
+  pauseBeforeEffect: 1
+  aimType: 6
+  aimPlayer: 1
+  durationType: 0
+  effectPositive: 1
+  effectShoot: 0
+  hexArea: 6
+  animator: {fileID: 0}
+  changes:
+  - changedParameter: 0
+    IncreaseBy: -20
+    MultiplyBy: 1
